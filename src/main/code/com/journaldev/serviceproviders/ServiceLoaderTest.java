@@ -1,5 +1,4 @@
-package main.test;
-import main.code.MessageServiceProvider;
+package com.journaldev.serviceproviders;
 
 import java.util.Optional;
 import java.util.ServiceLoader;
